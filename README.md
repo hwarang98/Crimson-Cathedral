@@ -13,7 +13,7 @@ Motion Matching 기반 캐릭터 이동과 Gameplay Camera 시스템을 통해
 
 # 🎮 Gameplay Video
 
-[![Video Label](http://img.youtube.com/vi/EKn21if_jY8/0.jpg)](https://youtu.be/59USvjy2toI)
+[![Video Label](http://img.youtube.com/vi/EKn21if_jY8/0.jpg)](https://youtu.be/EKn21if_jY8)
 
 ---
 
@@ -321,5 +321,6 @@ GameplayTag 기반 상태 연동으로 탐색 조건 최적화
 | Network | Replication |
 | CI/CD | GitHub Actions, clang-format |
 | Version Control | Git, GitHub |
+
 
 
